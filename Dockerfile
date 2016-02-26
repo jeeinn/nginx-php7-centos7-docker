@@ -1,7 +1,7 @@
 FROM centos:7
 MAINTAINER "Linhua Tang" <linhua@staff.weibo.com>
 
-ENV VERSION 0.0.1
+ENV VERSION 1.0.0
 ENV OPENRESTY_VERSION 1.9.7.3
 ENV OPENRESTY_PREFIX /usr/local
 ENV NGINX_PREFIX /usr/local/nginx
